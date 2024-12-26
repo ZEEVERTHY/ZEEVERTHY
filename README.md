@@ -14,3 +14,13 @@
   - [VPN Setup in Virtual Machine ](https://github.com/ZEEVERTHY/Setting-UP-A-VPN/blob/main/README.md)
 
 <h2>📩Contact Me</h2>
+
+<p align="center" style="margin: -20px 0 30px">
+  <a href="https://www.linkedin.com/in/atereakin" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:contact@aralroca.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
+  </a>
+</p>
